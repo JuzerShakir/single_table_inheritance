@@ -1,0 +1,2 @@
+class TvSeries < Show
+end
